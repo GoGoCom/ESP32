@@ -29,8 +29,8 @@ Provisioning Successful
 Provisioning Ends
 ```
 
-![](img/provision1.png)
-![](img/provision2.png)
+![](img/provision1.jpg)
+![](img/provision2.jpg)
 
 ## Blynk Tools
 
@@ -54,7 +54,7 @@ After defining the device and setting up the development template through the Bl
 
 ### Blynk App / Display
 
-![](img/controlTemp.jpeg)
+![](img/controlTemp.jpg)
 
 
 ## Library
