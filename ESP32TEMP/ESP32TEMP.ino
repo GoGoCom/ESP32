@@ -10,12 +10,10 @@ Note: This sketch takes up a lot of space for the app and may not be able to fla
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
 /* Fill in information from Blynk Device Info here */
-//#define BLYNK_TEMPLATE_ID "TMPL6fQP4aXvb"
-//#define BLYNK_TEMPLATE_NAME "Humanoid"
-//#define BLYNK_AUTH_TOKEN "fLaAB_KTDRqopOsoreXXiCNCvQT3Ff3H"
-#define BLYNK_TEMPLATE_ID   "TMPLibh8kPh5"
-#define BLYNK_TEMPLATE_NAME "Boronia"
-#define BLYNK_AUTH_TOKEN    "TH81HedGK74cZl8MQvfG-w8yD5LA9m9g" // Boronia
+
+#define BLYNK_TEMPLATE_ID   "TMPLibxxxxxx"   // your template 
+#define BLYNK_TEMPLATE_NAME "YYYYYY"
+#define BLYNK_AUTH_TOKEN    "skljdfwiiehfiehfwefhjkwe" // your token
 
 #include "sdkconfig.h"
 #if CONFIG_ESP_WIFI_REMOTE_ENABLED
