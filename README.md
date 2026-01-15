@@ -34,22 +34,25 @@ Provisioning Ends
 
 ## Blynk Tools
 
-[Blynk](https://www.blynk.io/)is an excellent platform for solving IoT problems.It is the most powerful tool when you want to control something on the Internet, whether it is on mobile or PC.
+[Blynk](https://www.blynk.io/) is an excellent platform for solving IoT problems.It is the most powerful tool when you want to control something on the Internet, whether it is on mobile or PC.
 By defining the required streams in the Blynk.Console and connecting them to components, you can exchange data over the network.
 You must first sign up on https://blynk.cloud/dashboard/login  before you can use it.
 
 ![](img/login.png)
 
-After defining the device and setting up the development template through the Blynk console, find out the following three values ??and enter them at the beginning of the source code: BLYNK TEMPLATE ID, BLYNK TEMPLATE_NAME, and BLYNK AUTHTOKEN.
+After defining the device and setting up the development template through the Blynk console, find out the following three values and enter them at the beginning of the source code: BLYNK TEMPLATE ID, BLYNK TEMPLATE_NAME, and BLYNK AUTHTOKEN.
 
 ![](img/device.png)
 ![](img/BlynkDatastream.png)
 
-| define | description |
-|-|-|
-|#define BLYNK_TEMPLATE_ID "XMgt6fqp4aXvb" |
-|#define BLYNK_TEMPLATE_NAME "TempControl" |
-|#define BLYNK_AUTH_TOKEN "0f0ffASdldldleefeeXXiCNCvQT3Ff3H" |
+| define |
+|-|
+|#define BLYNK_TEMPLATE_ID  "XMgt6fqp4aXvb" |
+|#define BLYNK_TEMPLATE_NAME  "TempControl" |
+|#define BLYNK_AUTH_TOKEN  "0f0ffASdldldleefeeXXiCNCvQT3Ff3H" |
+
+
+### Blynk App / Display
 
 ![](img/controlTemp.png)
 
