@@ -54,7 +54,7 @@ After defining the device and setting up the development template through the Bl
 
 ### Blynk App / Display
 
-![](img/controlTemp.png)
+![](img/controlTemp.jpeg)
 
 
 ## Library
