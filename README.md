@@ -5,10 +5,10 @@
 I created a heater temperature control system using Blynk and an ESP32. The ESP32 is a powerful device with WiFi and Bluetooth capabilities. By combining these two, I created an IoT system that allows remote heaters to be turned on and off at specific temperatures and time periods.
 This sketch is implemented provisioning using BLE as the mode of transport for provisioning-related communication between the device (to be provisioned) and the client (owner of the device).
 
-![](img/controller.jp)
-![](img/controllerTop.jp)
-![](img/controllerRight.jp)
-![](img/controllerFront.jp)
+![](img/controller.jpg)
+![](img/controllerTop.jpg)
+![](img/controllerRight.jpg)
+![](img/controllerFront.jpg)
 
 
 ## Provisioning Tools
